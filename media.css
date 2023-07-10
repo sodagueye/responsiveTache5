@@ -9,6 +9,10 @@
         .groupeParag{
             margin-left: 0;
         }
+        .icone{
+            position: absolute;
+            right: 30px;
+        }
         .numero{
             display: flex;
             flex-direction: column;
@@ -30,9 +34,11 @@
         .circle-wrap{
            margin: 10px auto;
         }
-        .skills{
-            margin-top: 25px;
-        }
+        /* .skills{
+            padding-top: 20px;
+            /* 
+            rgin-top: 25px; */
+        /*} */
         .Work{
             margin-top: 25px;
             text-align: center;
@@ -58,13 +64,16 @@
         padding-top: 0px;
         text-align: center;
        }
-     .icone{
-        padding-top: 0px; 
-    }
+       /* .icon-container i{
+        padding-left: 12px;
+         }  */
+      /* .icone{
+        padding-top: 20px; 
+    }  */
     .skills{
         display: flex;
         justify-content: center;
-        padding-top: 80px; 
+        padding-top: 120px; 
        padding-left: 0px;
        }
    .groupeParag{
