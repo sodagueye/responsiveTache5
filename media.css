@@ -45,7 +45,9 @@
         } 
         .portfolio{
             text-align: center;
-            padding-right:0px
+            padding-right:0px;
+            margin-bottom: 30px;
+            
          }
          .tellus{
             padding: 30px;
@@ -64,16 +66,16 @@
         padding-top: 0px;
         text-align: center;
        }
-       /* .icon-container i{
+       .icon-container i{
         padding-left: 12px;
-         }  */
-      /* .icone{
+         }  
+     /* .icone{
         padding-top: 20px; 
-    }  */
+    }   */
     .skills{
         display: flex;
         justify-content: center;
-        padding-top: 120px; 
+        padding-top: 200px; 
        padding-left: 0px;
        }
    .groupeParag{
