@@ -25,7 +25,24 @@
         .all{
             display: flex;
             flex-flow : column wrap; 
+            
         }
+        .circle-wrap{
+           margin: 10px auto;
+        }
+        .skills{
+            margin-top: 25px;
+        }
+        .Work{
+            margin-top: 25px;
+        } 
+        .portfolio{
+            text-align: center;
+            padding-right:0px
+         }
+         .tellus{
+            padding: 30px;
+         }
         .profil img{
             display: flex;
             position: relative;
@@ -44,15 +61,22 @@
         padding-top: 0px; 
     }
     .skills{
-        padding-top: 100px; 
+        display: flex;
+        justify-content: center;
+        padding-top: 80px; 
        padding-left: 0px;
+       }
+   .groupeParag{
+    padding: 25px;
    }
       .Work{
        padding-left: 0px;
    }  
+   .timeline-content{
+    padding-top: 30px;
+   }
    .groupStrong{
     display: flex;
    flex-direction: row;
-    /* justify-content: center; */
-   }
+    }
     } 

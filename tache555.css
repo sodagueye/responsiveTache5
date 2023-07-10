@@ -111,11 +111,12 @@
      background-color: #FFAD01 ;
     }
     .skills{
-         padding-top: 100px; 
+         padding-top: 120px; 
         padding-left: 80px;
     }
        .Work{
         padding-left: 60px;
+        padding-top: 30px;
     } 
     .Work h2{
         font-family: Verdana, sans-serif;
