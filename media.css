@@ -66,9 +66,15 @@
         padding-top: 0px;
         text-align: center;
        }
-       .icon-container i{
-        padding-left: 12px;
-         }  
+       .icone{
+        padding-top: 0px; 
+        position: relative;
+        right: 9px; */
+        /* display: flex;
+       
+        align-items: center;
+        justify-content: center; */
+         }   
      /* .icone{
         padding-top: 20px; 
     }   */
